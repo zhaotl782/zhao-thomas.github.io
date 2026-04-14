@@ -1,3 +1,9 @@
+**Thomas Zhao - Personal Website**
+Welcome. This is where I showcase my academic work, projects, and professional experience.
+
+**Licensing**
+This website is built using Jekyll with the Minimal Mistakes theme and hosted on GitHub Pages.
+
 # Minimal Mistakes remote theme starter
 
 Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
