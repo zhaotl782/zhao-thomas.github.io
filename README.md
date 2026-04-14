@@ -1,4 +1,4 @@
-## Thomas Zhao - Personal Website
+## Thomas Zhao - Personal Website (WIP)
 Welcome. This is where I showcase my academic work, projects, and professional experience.
 
 ## Licensing
