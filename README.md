@@ -1,7 +1,7 @@
-**Thomas Zhao - Personal Website**
+## Thomas Zhao - Personal Website
 Welcome. This is where I showcase my academic work, projects, and professional experience.
 
-**Licensing**
+## Licensing
 This website is built using Jekyll with the Minimal Mistakes theme and hosted on GitHub Pages.
 
 # Minimal Mistakes remote theme starter
